@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80a391386621244449e46f2d756876a4, type: 3}
+  m_Name: Anonimus
+  m_EditorClassIdentifier: 
+  Cost: 20
+  Name: Anonimus
+  NameRussian: "\u0410\u043D\u043E\u043D\u0438\u043C\u0443\u0441"
+  Material: {fileID: 2100000, guid: 87b3a401f0738454c8575ae39c2b0061, type: 2}
+  SpeedMultiplier: 1.1
+  Magshot: {fileID: 21300000, guid: e7562d48303e4b74ea74433471e5d1d8, type: 3}

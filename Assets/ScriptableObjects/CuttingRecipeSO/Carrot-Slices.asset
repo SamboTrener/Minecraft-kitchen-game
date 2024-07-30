@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88e95312b89f72e4b99743e7b638732b, type: 3}
+  m_Name: Carrot-Slices
+  m_EditorClassIdentifier: 
+  Input: {fileID: 11400000, guid: b8936fba68239fa4aabb30c93d98371a, type: 2}
+  Output: {fileID: 11400000, guid: dc4ad6c7b5f01ae40a4771c5ed055738, type: 2}
+  CuttingProgressMax: 4

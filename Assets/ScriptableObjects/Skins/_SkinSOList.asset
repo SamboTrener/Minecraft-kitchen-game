@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d5278a4f5430347bbdba8f9c5689c8, type: 3}
+  m_Name: _SkinSOList
+  m_EditorClassIdentifier: 
+  skinSOList:
+  - {fileID: 11400000, guid: ffb2a16e4aa573040a9f06c4b22efd0a, type: 2}
+  - {fileID: 11400000, guid: a62ce7bdf5a3e1747a2ff7b080f504f0, type: 2}
+  - {fileID: 11400000, guid: c936ac276df948f419fe4173a3188746, type: 2}
+  - {fileID: 11400000, guid: 1ffdd39be9cee9c4a8caee99c52ae8e6, type: 2}
+  - {fileID: 11400000, guid: 080c8a295afda0b499dd77349b7d062e, type: 2}
+  - {fileID: 11400000, guid: f3f383fcad9ca52489cffbc9d05dc987, type: 2}
+  - {fileID: 11400000, guid: 6f0fb4ee3000cf94c941c442f5e10df5, type: 2}
+  - {fileID: 11400000, guid: a739c93ee00cc1f4db5ea4d5f80ace2e, type: 2}
+  - {fileID: 11400000, guid: c2110ea3ba6f138439c3bbdb5e161c38, type: 2}

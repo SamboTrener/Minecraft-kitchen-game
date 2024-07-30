@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29f4bd6c12c8a943871c46b2c5b13be, type: 3}
+  m_Name: Rotburger With fries
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: b189a081dacb93345b8b68146c99521f, type: 2}
+  - {fileID: 11400000, guid: b4a4fa9d561521a419c1df805a0cfc28, type: 2}
+  - {fileID: 11400000, guid: edcafcb5e7c11974096c3046233feb18, type: 2}
+  recipeName: Rotburger with fries
+  recipeNameRussian: "\u0413\u043D\u0438\u043B\u044C\u0431\u0443\u0440\u0433\u0435\u0440
+    \u0441 \u043A\u0430\u0440\u0442\u043E\u0448\u043A\u043E\u0439 \u0444\u0440\u0438 "
+  recipeCost: 6
